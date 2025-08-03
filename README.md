@@ -1,2 +1,6 @@
 # JAVA-QUIZ-APPLICATION
 Learning Assistant
+```
+made this to apply my oops knwowledge, edgy so please don't use, not enteded for usability.
+
+```
